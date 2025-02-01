@@ -1,2 +1,1 @@
-# prince4you.io
-Termux repository 
+https://prince4you.github.io/Noob-Hackers/
